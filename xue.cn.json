@@ -1,0 +1,31 @@
+{
+    "authors": 
+    [{"avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
+     "bio": "余晟，非正统型技术爱好者，有多年研发经验，目前在在线教育行业从事研发与架构管理的工作。在强调技术追求的同时，倡导全面、完整的技术路线和技术文化，业余写作、翻译、审校了若干技术图书。个人公众号为“余晟以为”（yurii-says）。",
+     "name": "余晟",
+     "role": "origin"}],
+     "chapters": [
+        {"path": "README.ipynb", "title": "0 说明"},
+        {"path": "introduction.ipynb", "title": "0 浅谈科技翻译特点"},
+        {"path": "overview-0.ipynb", "title": "0 翻译概论"},
+        {"path": "overview-1.ipynb", "title": "0 我的翻译经历"},
+        {"path": "overview-2.ipynb", "title": "0 译者应当具备的能力"},
+        {"path": "overview-3.ipynb", "title": "0 翻译和艺术的关系"},
+        {"path": "overview-4.ipynb", "title": "0 直译还是意译？"},
+        {"path": "overview-5.ipynb", "title": "0 面对典故，多走一步"},
+        {"path": "overview-6.ipynb", "title": "0 翻译的步骤"},
+        {"path": "overview-7.ipynb", "title": "0 翻译的两难"},
+        {"path": "overview-8.ipynb", "title": "0 翻译如铺路"},
+        {"path": "appraise-0.ipynb", "title": "0 译文讲评"},
+        {"path": "appraise-1.ipynb", "title": "0 译句讲评"},
+        {"path": "appraise-2.ipynb", "title": "0 译文讲评【一】"},
+        {"path": "appraise-3.ipynb", "title": "0 译文讲评【二】"},
+        {"path": "appraise-4.ipynb", "title": "0 译文讲评【三】"}
+    ],
+    "cover": "https://xue-images.pek3b.qingstor.com/正则指引_cover.jpg",
+     "description": "作者“正职”为软件开发，翻译纯属误打误撞——从普通的GRE考生开始踏上翻译之路，至今已翻译出版《精通正则表达式》、《技术领导之路》、《程序员的职业素养》等作品，合计字数超过一百万，并得到很多读者的肯定。\n为了给广大对翻译有兴趣的朋友，尤其是软件行业的朋友提供帮助，也希望广大译者能够译出更多更好的作品，在此将自己摸索的成果共享出来，集结为《翻译漫谈》，供大家参考。",
+     "isbn": "0000000000000",
+     "name": "翻译漫谈",
+     "publish_at": "2013-06-01T00:00:00",
+     "toc_level": 2, 
+     "version": "0.3"}
